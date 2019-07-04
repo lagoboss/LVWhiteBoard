@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LVWhiteBoard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LVWhiteBoard_jar</output-path>
+    <root id="archive" name="LVWhiteBoard.jar">
+      <element id="module-output" name="LVWhiteBoard" />
+    </root>
+  </artifact>
+</component>

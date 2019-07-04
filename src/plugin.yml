@@ -1,0 +1,10 @@
+name: LVWhiteBoard
+version: 1B
+author: L4G0130$$
+main: com.gmail.mchelplagoverse.LVWhiteBoard.BootLVWhiteBoard
+
+depend: [Vault]
+commands:
+  wb:
+    description: allows players to interact with the LVWhiteBoard school software
+    usage: /wb <arguments>

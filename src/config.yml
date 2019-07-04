@@ -1,0 +1,20 @@
+Courses:
+  Course1:
+    Enabled: true
+    Permission: 'lbwb.enroll.course1'
+    Cost: 99.99
+    Instructor: 'Test'
+    Chapter_Count: 3
+    Last_Updated:
+      Player_Name: ''
+      Date: 'Some Time'
+    Commands_to_Execute:
+      - 'lp user $player permission set lbwb.course1.completed'
+      - 'test command'
+      - 'test command'
+    Materials: 'Book'
+    Chapters:
+      chapter1:
+        title: 'example1'
+      chapter2:
+        title: 'example1'
